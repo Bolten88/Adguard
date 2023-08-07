@@ -1,2 +1,3 @@
 ||zalando.nl^
 ||wehkamp.nl^
+||nu.nl^
