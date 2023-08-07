@@ -1,3 +1,1 @@
-||zalando.nl^
-||wehkamp.nl^
-||nu.nl^
+#Custom Block List
