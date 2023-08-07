@@ -1,1 +1,8 @@
 #Custom Block List
+#Own test block url's
+||theuselessweb.com^
+||info.cern.ch^
+||www.boredbutton.com^
+
+#adblock test (https://d3ward.github.io/toolz/adblock.html)
+||browser.sentry-cdn.com^
