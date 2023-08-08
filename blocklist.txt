@@ -8,4 +8,4 @@
 ||browser.sentry-cdn.com^
 
 #Test Wehkamp.nl
-||wehkamp.nl^
+#||wehkamp.nl^
