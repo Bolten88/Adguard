@@ -6,6 +6,7 @@
 
 #adblock test (https://d3ward.github.io/toolz/adblock.html)
 ||browser.sentry-cdn.com^
+||appmetrica.yandex.ru^
 
 #Test Wehkamp.nl
 #||wehkamp.nl^
