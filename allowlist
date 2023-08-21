@@ -1,3 +1,6 @@
 #Custom Allow List
 @@google.nl^
 @@tweakers.net^
+
+#Air Miles extra linkt werkte niet
+@@go.flx1.com^
