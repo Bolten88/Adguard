@@ -1,8 +1,9 @@
 #Custom Allow List
 
 #Allow Google Clickserve
-@@clickserve.dartsearch.net^
+@@||clickserve.dartsearch.net^
+@@||ad.doubleclick.net^
 
 #Air Miles extra link werkte niet
-@@go.flx1.com^
-@@clicks.airmiles.nl^
+@@||go.flx1.com^
+@@||clicks.airmiles.nl^
