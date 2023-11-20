@@ -1,8 +1,9 @@
 #Custom Allow List
 
-#Allow Google Clickserve
-##@@||clickserve.dartsearch.net^$Client=10.10.120.105
-##@@||ad.doubleclick.net^$Client=10.10.120.105
+#Allow Google Ads Kim
+@@||clickserve.dartsearch.net^$client=10.10.120.240
+@@||ad.doubleclick.net^$client=10.10.120.240
+@@||adservice.google.*^$client=10.10.120.240
 
 #Air Miles extra link werkte niet
 @@||go.flx1.com^
