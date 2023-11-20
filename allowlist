@@ -1,8 +1,8 @@
 #Custom Allow List
 
 #Allow Google Clickserve
-@@||clickserve.dartsearch.net^$Client=10.10.120.105
-@@||ad.doubleclick.net^$Client=10.10.120.105
+##@@||clickserve.dartsearch.net^$Client=10.10.120.105
+##@@||ad.doubleclick.net^$Client=10.10.120.105
 
 #Air Miles extra link werkte niet
 @@||go.flx1.com^
