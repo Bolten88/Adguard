@@ -1,6 +1,7 @@
 #Custom Allow List
-@@google.nl^
-@@tweakers.net^
+
+#Allow Google Clickserve
+@@clickserve.dartsearch.net^
 
 #Air Miles extra link werkte niet
 @@go.flx1.com^
