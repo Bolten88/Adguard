@@ -11,3 +11,6 @@
 
 #Allow Teslamate
 @@||teslamate.mbolten.nl^
+
+#Allow Sendgris
+@@||sendgrid.net^
