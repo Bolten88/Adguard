@@ -12,6 +12,6 @@
 #Allow Teslamate
 @@||teslamate.mbolten.nl^
 
-#Allow Sendgris
-@@||sendgrid.net^
+#Allow Sendgrid
+@@||u2142511.ct.sendgrid.net^
 @@||vimeo.com^
