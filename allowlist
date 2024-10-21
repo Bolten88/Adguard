@@ -15,3 +15,8 @@
 #Allow Sendgrid
 @@||u2142511.ct.sendgrid.net^
 @@||vimeo.com^
+
+
+#x-x
+@@||etahub.com^$client='iPad van Mark'
+@@||bmedia-gcore.justservingfiles.net^$client='iPad van Mark'
