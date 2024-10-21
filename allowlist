@@ -18,5 +18,6 @@
 
 
 #x-x
-@@||etahub.com^$client='iPad van Mark'
-@@||bmedia-gcore.justservingfiles.net^$client='iPad van Mark'
+@@||etahub.com^$client='iPad van Mark'|'iPhone van Mark'
+@@||bmedia-gcore.justservingfiles.net^$client='iPad van Mark'|'iPhone van Mark'
+@@||s3t3d2y8.afcdn.net^$client=''iPad van Mark'|iPhone van Mark'
