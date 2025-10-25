@@ -19,6 +19,9 @@
 #Allow bibliotheek.nl (False positive Parental control)
 @@||bibliotheek.nl^
 
+#Allow login ViaPlay on KPN TV+
+@@||sdk.split.io^$client='10.10.20.111'
+
 #x-x
 #@@||etahub.com^$client='iPad van Mark'|'iPhone van Mark'
 #@@||bmedia-gcore.justservingfiles.net^$client='iPad van Mark'|'iPhone van Mark'
